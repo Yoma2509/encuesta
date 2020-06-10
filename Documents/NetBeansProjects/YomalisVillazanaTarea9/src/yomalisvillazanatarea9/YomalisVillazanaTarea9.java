@@ -52,7 +52,7 @@ public class YomalisVillazanaTarea9 {
             
            case 4:
                
-               System.out.println("Resultado de la multiplicación " + (numero1 / numero2));
+               System.out.println("Resultado de la división " + (numero1 / numero2));
               
              break;
              
