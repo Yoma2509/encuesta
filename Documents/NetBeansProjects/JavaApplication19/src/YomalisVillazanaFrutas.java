@@ -28,7 +28,7 @@ public class YomalisVillazanaFrutas {
           
           int contador = 0;
           for (String frutas: Frutas){
-            System.out.println("Frutas -> " + Frutas [contador]);
+            System.out.println("Fruta -> " + Frutas [contador]);
             contador++;
           }
                  
